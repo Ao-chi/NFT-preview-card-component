@@ -1,0 +1,12 @@
+@import "./assets/sass/abstracts/functions";
+@import "./assets/sass/abstracts/variables";
+@import "./assets/sass/abstracts/mixins";
+
+#root {
+    height: 100%;
+}
+
+main {
+    height: inherit;
+    @include display-flex(center, center);
+}
