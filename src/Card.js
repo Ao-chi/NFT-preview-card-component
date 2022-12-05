@@ -32,7 +32,7 @@ const Card = () => {
                 <div className="card-user">
                     <img src={usericon} alt="user icon" />
                     <p>
-                        Creation of <a href="#">Jules Wyvern</a>
+                        Creation of <a href="https://www.frontendmentor.io/profile/Ao-chi">Jules Wyvern</a>
                     </p>
                 </div>
             </div>
